@@ -1,0 +1,16 @@
+#Escola Gildo Veríssimo
+
+#Disciplina: Língua Portuguesa
+
+PROF: MARCOS
+ALUNA: ÁGATHA VICTÓRIA
+###TURMA: 7 ANO A
+#GÊNERO TEXTUAL: HORÁRIO DE AULAS
+
+HORÁRIO | SEG | TER | QUA | QUI | SEX |
+|:--:|:--:|:--:|:--:|:--:| 
+|07:30 08:20|MAT|POR|HIS|GEO|CIÊ|
+|08:20 09:10|MAT|POR|HIS|POR|GEO|
+|09:10 10:00|CIÊ|POR|MAT|MAT|GEO|
+|10:00 10:50|POR|CIÊ|HIS|MAT|ING|
+|10:50 11:30|POR|CIÊ|ART|MAT|ING|
